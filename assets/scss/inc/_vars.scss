@@ -1,0 +1,68 @@
+// Project variables
+$green: rgb(30, 135, 105);
+$light-green: rgb(44, 193, 151);
+$text-color: rgba(2, 0, 24, 1);
+
+$main-color: $text-color;
+$sub-color: $green;
+
+$font: 'Montserrat', sans-serif;
+$sub-font: 'LAQUATSA Regular';
+$fa: 'Font Awesome 5 Free';
+$fab: 'Font Awesome 5 Brands';
+
+// Font Awesome Vars
+$fa-font-path: "../fonts";
+$fa-font-display: swap;
+
+// Project mixins
+
+
+// Custom fonts
+//@font-face {
+//	font-family: 'Montserrat';
+//	font-style: normal;
+//	font-weight: 300;
+//	font-display: swap;
+//	src: url('../fonts/Montserrat/Montserrat-Light.ttf') format('truetype');
+//}
+//
+//@font-face {
+//	font-family: 'Montserrat';
+//	font-style: normal;
+//	font-weight: 400;
+//	font-display: swap;
+//	src: url('../fonts/Montserrat/Montserrat-Regular.ttf') format('truetype');
+//}
+//
+//@font-face {
+//	font-family: 'Montserrat';
+//	font-style: normal;
+//	font-weight: 500;
+//	font-display: swap;
+//	src: url('../fonts/Montserrat/Montserrat-Medium.ttf') format('truetype');
+//}
+//
+//@font-face {
+//	font-family: 'Montserrat';
+//	font-style: normal;
+//	font-weight: 600;
+//	font-display: swap;
+//	src: url('../fonts/Montserrat/Montserrat-SemiBold.ttf') format('truetype');
+//}
+//
+//@font-face {
+//	font-family: 'Montserrat';
+//	font-style: normal;
+//	font-weight: 700;
+//	font-display: swap;
+//	src: url('../fonts/Montserrat/Montserrat-Bold.ttf') format('truetype');
+//}
+
+@font-face {
+	font-family: 'LAQUATSA Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url('../fonts/LAQUATSARegular/LAQUATSARegular.woff') format('woff');
+}

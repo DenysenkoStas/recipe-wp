@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="24px" viewBox="0 0 34 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>quotes</title>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-page" transform="translate(-189.000000, -2638.000000)" fill="#2CC197">
+            <g id="testimonial" transform="translate(0.000000, 2372.000000)">
+                <g transform="translate(165.000000, 234.000000)" id="quotes">
+                    <g transform="translate(24.000000, 32.000000)">
+                        <polygon id="Rectangle" points="0 10 4 0 8 0 4 10 16 10 16 24 0 24"></polygon>
+                        <polygon id="Rectangle-Copy" points="18 10 22 0 26 0 22 10 34 10 34 24 18 24"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
